@@ -38,6 +38,7 @@ Happened to pick up coding along the way — and never really stopped. 💻
 | [🎵 MP3 Player](https://github.com/khizar-mohammad/mp3Player) | Audio player UI built with JavaScript | JavaScript |
 | [📊 Data Visualization With Pandas](https://github.com/khizar-mohammad/Data-Plotting-1.4) | Basic Data Visualization | Python |
 | [🛠️ Exporting Jupyter Notebook into Py Cells](https://github.com/khizar-mohammad/export-each-code-cell-of-a-Jupyter-Notebook-into-individual-Python-files) | Exports your Jupyter Notebook into Py Cells | Python |
+| [📌Todo-App](https://github.com/khizar-mohammad/TodoApp) | Basic Task Management Tool | React + Vite |
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=khizar-mohammad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
