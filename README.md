@@ -6,7 +6,7 @@ Hey, I'm Khizar 👋
 🔥 Natural enthusiast
 💬 Addicted conversationalist
 🌿 Needs fresh air to function
-🔍 Curious by nature, always asking why
+🔍 Curious by nature
 
 Happened to pick up coding along the way — and never really stopped. 💻
 
